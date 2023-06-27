@@ -26,7 +26,7 @@ The creation, communication, and resolution of a severity level A ticket.<br />
 <h2>Lifecycle Stages</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While a help desk agent will be resolving tickets, it's still useful to understand how tickets are created from the User end, the end in which Agents will be communicating with. This is a scenario where a ticket is a company-wide issue and requires immediate attention. This is a Severity Level A ticket since it is preventing the entire company from operating.
 </p>
 
 ![image](https://github.com/parkrich/ticket-lifecycle/assets/137697108/4765507f-dd9b-458a-b6ad-067e6fa63350)
