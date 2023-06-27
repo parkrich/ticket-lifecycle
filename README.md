@@ -26,7 +26,7 @@ The creation, communication, and resolution of a severity level A ticket.<br />
 <h2>Lifecycle Stages</h2>
 
 <p>
-While a help desk agent will be resolving tickets, it's still useful to understand how tickets are created from the User end, the end in which Agents will be communicating with. This is a scenario where a ticket is a company-wide issue and requires immediate attention. This is a Severity Level A ticket since it is preventing the entire company from operating.
+The ticket was assigned to Jane in Support, since the ticket was filed under Support and Jane is part of Support. This is an example of Jane keeping KAren in the loop about the issue and placing the proper urgency to get the ticket resolved. Jane resolves the ticket by updating the user and then marking it in the sytem as being closed and resolved.
 </p>
 
 ![image](https://github.com/parkrich/ticket-lifecycle/assets/137697108/4765507f-dd9b-458a-b6ad-067e6fa63350)
