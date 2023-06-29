@@ -26,7 +26,7 @@ The creation, communication, and resolution of a severity level A ticket.<br />
 <h2>Lifecycle Stages</h2>
 
 <p>
-While an IT Help Desk Agent will be the one operating the tickets sent by Users, it is still good to know how a ticket is created on the Users end. This is me creating a hypothetical ticket under the user name Karen.
+While an IT Help Desk Agent will be the one operating the tickets sent by Users, it is still good to know how a ticket is created on the Users end. This is me creating a hypothetical ticket under the user name Karen. An issue sumary is created and a brief explnation of the problem that needs resolving.
 </p>
 
 ![image](https://github.com/parkrich/ticket-lifecycle/assets/137697108/4765507f-dd9b-458a-b6ad-067e6fa63350)
