@@ -33,7 +33,7 @@ While an IT Help Desk Agent will be the one operating the tickets sent by Users,
 <br />
 
 <p>
-The ticket was assigned to Jane in Support. This is an example of Jane keeping Karen in the loop about the issue and placing the proper urgency to get the ticket resolved. Jane resolves the ticket by updating the user and then marking it in the sytem as being closed and resolved.
+The ticket was assigned to Jane in Support. This is an example of Jane keeping Karen in the loop about the issue and placing the proper urgency to get the ticket resolved. The ticket is resolved after Jane notifies the user of the fix, and then files the ticket under "Resolved"..
 </p>
 
 ![image](https://github.com/parkrich/ticket-lifecycle/assets/137697108/0d959212-caa4-42aa-b854-5a2208ffc0aa)
